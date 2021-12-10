@@ -30,3 +30,5 @@ On a smaller screen it will look like this:
 - The sidebar has 16px padding.
 - There is 32px padding around the 'cards' section.
 - The cards are arranged horizontally, but wrap to multiple lines when they run out of room on the page.
+
+solved 12/10/21

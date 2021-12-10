@@ -17,4 +17,4 @@ Depending on how you approach this one, you might need to revisit the `flex-shri
 - The header is bold and a slightly larger text-size than the text.
 - The close button is vertically aligned with the header, and aligned in the top-right of the card.
 
-solved 12/10/21
+solved 12/10/21  
