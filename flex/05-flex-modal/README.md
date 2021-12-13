@@ -18,3 +18,4 @@ Depending on how you approach this one, you might need to revisit the `flex-shri
 - The close button is vertically aligned with the header, and aligned in the top-right of the card.
 
 solved 12/10/21  
+solved with new method 12/13/21, greater amount of customability
