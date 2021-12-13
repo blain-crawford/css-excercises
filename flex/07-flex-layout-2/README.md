@@ -32,3 +32,4 @@ On a smaller screen it will look like this:
 - The cards are arranged horizontally, but wrap to multiple lines when they run out of room on the page.
 
 solved 12/10/21
+solved with new method 12/13/21
